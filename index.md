@@ -2,7 +2,7 @@
 
 ![logo](https://i.ibb.co/3fJ1hYm/logo-oppro.jpg)
 
-![badge1c#](https://svgshare.com/i/X1K.svg)
+![badge1c#](https://github.com/oppro-officiall/website-oppro_officiall/blob/gh-pages/Images/Language-C%23-brightgreen.svg)
 
 
 
