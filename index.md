@@ -2,6 +2,9 @@
 
 ![logo](https://i.ibb.co/3fJ1hYm/logo-oppro.jpg)
 
+![badge1c#](https://svgshare.com/i/X1K.svg)
+
+
 
 ## List of repository
 Installer-repacks-monkrus - [go to repository](https://github.com/oppro-officiall/installer-repacks-monkrus)  
